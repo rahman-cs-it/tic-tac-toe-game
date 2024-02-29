@@ -14,8 +14,10 @@ Getting Started:
 
 Clone the repository:
 
-Bash
-git clone https://github.com/rahman-cs-it/tic-tac-toe-game.git
+```Bash
+  git clone https://github.com/rahman-cs-it/tic-tac-toe-game.git
+  cd tic-tac-toe-game
+```
 Use code with caution.
 Open the index.html file in a web browser to play the game.
 
